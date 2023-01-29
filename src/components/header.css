@@ -1,0 +1,14 @@
+.container {
+    background-color: #f5ba13;
+    margin: auto -16px;
+    padding: 1px 32px;
+    box-shadow: 0 0 5px 0 rgba(0 , 0, 0, 0);
+  
+  }
+  .container h1{
+    color: rgb(237, 228, 228);
+    font-family: cursive;
+    font-weight: 200;
+    
+   
+  }

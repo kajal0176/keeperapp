@@ -1,0 +1,14 @@
+
+  .foot{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    
+   height: 2.5rem;
+   width: 100%;
+  }
+  .foot p{
+    color: rgb(47, 49, 49);
+    font-size: 10px;
+   
+  }
